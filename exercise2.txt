@@ -1,0 +1,7 @@
+دو فایل که آپلود شده را در گوگل کولب باز کنید.
+همچنین می توانید از دو ادرس زیر در گوگل درایو کد ها را در گوگل کولب باز کنید یا دانلود کنید.
+
+
+1-https://colab.research.google.com/drive/1DghMj5A9R9ZUzOCTkFZEKGwXsb6oFWKd?usp=sharing
+
+2-https://colab.research.google.com/drive/1C4f-Bg_YqNqzaGgNaYI5F83dVp4BPPqX?usp=share_link
